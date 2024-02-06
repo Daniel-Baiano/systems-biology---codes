@@ -42,5 +42,7 @@ haverá arquivos para realizar o upload, pois os códigos precisarão de arquivo
 
 - 1.introducao_e_vetores .R: Arquivo.r com conceitos e exercícios simples para o treino na linguagem.
   
+- network.txt: Arquivo txt com os dados para serem utilzados na construção das análises da rede.
+
 - 
   
