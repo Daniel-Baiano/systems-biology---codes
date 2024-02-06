@@ -39,4 +39,7 @@ Preparado o ambiente para programar e analisar o código, vamos aos arquivos no 
 haverá arquivos para realizar o upload, pois os códigos precisarão de arquivos específicos, com intuito de eficiência e para servir de dados.
 
 
--
+- 1.introducao_e_vetores .R: Arquivo.r com conceitos e exercícios simples para o treino na linguagem.
+  
+- 
+  
