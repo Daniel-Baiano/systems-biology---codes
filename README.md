@@ -23,7 +23,9 @@ Por exemplo para a função mean, utilize ?mean. Exemplo de SAÍDA ABAIXO:
                   
                   ## Default S3 method:
                   mean(x, trim = 0, na.rm = FALSE, ...)    ...  "
+                  
 
+Instalação/Install:
 
 Além disso, caso não tenha feito o download do R em seu aparelho e acesse esse link e realize o download:
 Como instalar:
@@ -36,14 +38,15 @@ Como instalar o RStudio:
 O RStudio pode ser instalado gratuitamente em Windows, Mac e Linux. Acesse o site oficial do RStudio para baixar o instalador:
 - link: https://www.rstudio.com/
 
-Arquivos/Files
-Preparado o ambiente para programar e analisar o código, vamos aos arquivos no repositório. Deve-se seguir uma ordem de prioridade e/ou complexidade proposta,
-haverá arquivos para realizar o upload, pois os códigos precisarão de arquivos específicos, com intuito de eficiência e para servir de dados.
 
+Arquivos/Files
+
+Preparado o ambiente para programar e analisar o código, vamos aos arquivos no repositório. Deve-se seguir uma ordem de prioridade e/ou complexidade proposta,
+haverá arquivos para realizar o upload, pois os códigos precisarão de arquivos específicos, com intuito de melhorar dinâmica de programar e para servir de dados.
 
 - 1.introducao_e_vetores .R: Arquivo.r com conceitos e exercícios simples para o treino na linguagem.
   
-- network.txt: Arquivo txt com os dados para serem utilzados na construção das análises da rede.
+- network.txt: Arquivo .txt com os dados para serem utilzados na construção das análises da rede.
 
-- 
+- Conectividade- Funções.R: Arquivo com algumas funções relacionadas à vizinhança e conectividade em biologia de sistemas.
   
