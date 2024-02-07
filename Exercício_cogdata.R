@@ -1,5 +1,5 @@
-# Logo abaixo, há um exercício da função "OGanalyzer". Essa função é útil em biologia de sistemas 
-#para analisar a composição de COGs em diferentes genomas, identificar COGs específicos de uma espécie,
+# Logo abaixo, há um exercício da função "OGanalyzer". Primeiramente, deve-se realizar o upload do arquivo cogdata.RDATA. 
+# Essa função é útil em biologia de sistemas para analisar a composição de COGs em diferentes genomas, identificar COGs específicos de uma espécie,
 # comparar a distribuição de COGs entre diferentes condições e estudar a evolução de COGs ao longo do tempo. 
 # Ela é bem útil em uma análise posteior da criação das redes e útil no estudo em diferentes linhagens celulares, doenças, espécies e afins
 
