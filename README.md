@@ -83,7 +83,7 @@ Citação
 
 Se você usar este código em seu trabalho, por favor, cite o seguinte:
 
-Daniel Rocha Silva. (2024). Biologia de Sistemas em R: Explorando Conceitos de Redes. <URL inválido removido>
+Daniel Rocha Silva. (2024). Biologia de Sistemas em R: Explorando Conceitos de Redes.(https://github.com/Daniel-Baiano/systems-biology---codes)
 
 
 Contribuições
