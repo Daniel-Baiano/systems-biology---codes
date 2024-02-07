@@ -3,7 +3,7 @@ Olá, seja bem vindo!
 
 Esse arquivo tem o intuito de servir como guia para esclarer os objetivos desse repositório. Primeiramente,
 este repositório fornece uma série de códigos R para auxiliar na análise de redes biológicas.  O objetivo é facilitar a aplicação de 
-conceitos importantes em redes, como conectividade, centralidade e comunidades, para o estudo de sistemas biológicos.
+um conceitos importante em biologia de sistemas, a conectividade.
 
 Vale destacar que é necessário ter familiaridade com a linguagem R, para proporcionar um melhor entendimento das chamadas de funções,
 seus parâmetros e suas saídas. Caso possua alguma dúvida sobre alguma função, existe no R um comando que pode te ajudar nesses momentos,
@@ -50,15 +50,18 @@ Arquivos/Files:
 Preparado o ambiente para programar e analisar o código, vamos aos arquivos no repositório. Deve-se seguir uma ordem de prioridade e/ou complexidade proposta,
 haverá arquivos para realizar o upload, pois os códigos precisarão de arquivos específicos, com intuito de melhorar dinâmica de programar e para servir de dados.
 
-- 1.introducao_e_vetores .R: Arquivo.r com conceitos e exercícios simples para o treino na linguagem.
+- 1.introducao_e_vetores .R:  Arquivo .r com conceitos e exercícios simples para o treino na linguagem R.
   
-- network.txt: Arquivo .txt com os dados para serem utilzados na construção das análises da rede. Deve ser baixado para ser usando no arquivo Conectividade- Funções.R.
+- network.txt:  Arquivo .txt com os dados para serem utilzados na construção das análises da rede. Deve ser baixado para ser usando no arquivo Conectividade- Funções.R.
 
-- Conectividade- Funções.R: Arquivo com algumas funções relacionadas à vizinhança e conectividade em biologia de sistemas. 
+- Conectividade- Funções.R:  Arquivo .r com algumas funções relacionadas à vizinhança e conectividade em biologia de sistemas. 
 
-- cogdata: Arquivo .RData com dados de identificação de proteínas, espécies e proteínas homólogas. Deve ser baixado para ser usando no arquivo OGanalyzer_funções.
+- cogdata:  Link para o donwload dos dados de identificação de proteínas, espécies e proteínas homólogas. Deve ser baixado para ser usando no arquivo Exercício_cogdata.R.
+ O gabarito está disponível em outro arquivo no Drive.
 
-- 
+- Exercício_cogdata.R:  Arquivo adicional .r que explora a manipulação de informações de proteínas, útil em melhorar a visualização de resultados.
+
+- Gabarito_cogdata.R:  Gabarito do arquivo exercício_cogdata.R.
 
 
 
