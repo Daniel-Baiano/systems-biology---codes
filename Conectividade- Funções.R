@@ -1,12 +1,14 @@
 # Arquivo com funções que envolvem conceitos de conectividade e vizinhança em biologia de sistemas.
 # As funções já estão resolvidas e comentadas ao decorrer dos exemplos e podem ser adapatdas a sua necessidade.
-# Nota-se que é necessário realizar o upload, da rede network.txt no github.
+# Nota-se que é necessário realizar o upload, da rede network.txt no repositório do github.
 
-#Em biologia de sistemas, a conectividade se refere à interconexão entre diferentes componentes de um sistema biológico. Essa 
-#interconexão pode ser física, química ou informacional e pode ocorrer entre diferentes níveis de
-#organização, desde moléculas e células até órgãos e sistemas.
+# Em biologia de sistemas, a conectividade se refere à interconexão entre diferentes componentes de um sistema biológico. Essa 
+# interconexão pode ser física, química ou informacional e pode ocorrer entre diferentes níveis de
+# organização, desde moléculas e células até órgãos e sistemas.
 
-
+# Uma das características de uma rede é sua conectividade (também referida como grau de nó),
+# sendo a conectividade total de uma rede definida por C = E / N (N - 1), onde E
+# representa o número de conectores e N o número total de nós.
 
 
 
@@ -92,10 +94,6 @@ K("NGF", network)
 
 
 # Função para encontrar os vizinhos de um nó em uma rede
-
-
-
-# Função para encontrar os vizinhos de um nó em uma rede
 vizinhos <- function(symbol, network){
   
   # Cria uma coluna "conexoes" que concatena os nós conectados
@@ -130,19 +128,16 @@ vizinhos("BAD", network)
 
 # A função "Knetwork()" encontra a conectividade media da rede:
 
-
+# Passos que podem te auxiliar na  montagem do código:
 #1º Passo: pegar todos os nós da rede
 #2º Passo: não pegar os nós repetidos
-#3º Passo: Calcular a conectidade de cada um
-
 #o que é conectividde de cada no?
-
-#4º Passo: Calcular a conectidade media
-
-
+#3º Passo: Calcular a conectidade de cada um dos nós.
+#4º Passo: Calcular a conectidade media.
 
 
-# Função para calcular a Knetwork de uma rede
+
+# Função para calcular a Knetwork de uma rede:
 Knetwork <- function(network){
   
   # Cria uma coluna com todas as conexões (node1,node2)
