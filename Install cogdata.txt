@@ -1,7 +1,8 @@
 Installing cogdata 
 
 Para realizar a instalação do arquivo cogdata, deve acessar esse link no drive abaixo. Devido ao seu tamanho
-ser considerável, impossibilita o upload através do Github. Então, acesse o drive e baixe o arquivo.
+ser considerável, impossibilita o upload através do Github. Então, acesse o drive e baixe o arquivo. Há dois modelos, um com
+os comandos dos exercícios e outro com o gabarito.
 
 Link: https://drive.google.com/drive/folders/1QJ5M-aRI_k9xJj0qajYfjR16Ta54LQNs?usp=drive_link
 
