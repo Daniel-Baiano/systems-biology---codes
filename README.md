@@ -11,7 +11,8 @@ a função ?help. A função ?help no R é uma ferramenta para acessar a documen
 e detalhes mais específicos.
 
 Por exemplo para a função mean, utilize ?mean. Exemplo de SAÍDA ABAIXO:
-            "     
+
+            " 
                   Arithmetic Mean
                   
                   Description
