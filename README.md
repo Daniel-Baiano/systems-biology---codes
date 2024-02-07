@@ -61,7 +61,7 @@ haverá arquivos para realizar o upload, pois os códigos precisarão de arquivo
 
 - Exercício_cogdata.R:  Arquivo adicional .r que explora a manipulação de informações de proteínas, útil em melhorar a visualização de resultados.
 
-- Gabarito_cogdata.R:  Gabarito do arquivo exercício_cogdata.R.
+- gabarito_cogdata.R:  Gabarito do arquivo exercício_cogdata.R.
 
 
 
