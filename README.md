@@ -39,7 +39,7 @@ O RStudio pode ser instalado gratuitamente em Windows, Mac e Linux. Acesse o sit
 - link: https://www.rstudio.com/
 
 
-Arquivos/Files
+Arquivos/Files:
 
 Preparado o ambiente para programar e analisar o código, vamos aos arquivos no repositório. Deve-se seguir uma ordem de prioridade e/ou complexidade proposta,
 haverá arquivos para realizar o upload, pois os códigos precisarão de arquivos específicos, com intuito de melhorar dinâmica de programar e para servir de dados.
