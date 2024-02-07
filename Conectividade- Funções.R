@@ -9,7 +9,7 @@
 # Uma das características de uma rede é sua conectividade (também referida como grau de nó),
 # sendo a conectividade total de uma rede definida por C = E / N (N - 1), onde E
 # representa o número de conectores e N o número total de nós, (by Verli, Hugo, 2014).
-# Para mais detalhes sobre Biologia de sistemas o repositório LUME da UFRGS: https://lume.ufrgs.br/
+# Para mais detalhes sobre Biologia de sistemas, busque no seu navegador o repositório LUME da UFRGS: https://lume.ufrgs.br/
 # e busque o título: Bioinformática : da biologia à flexibilidade molecular -  Hugo Verli.
 
 
