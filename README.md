@@ -45,6 +45,7 @@ O RStudio pode ser instalado gratuitamente em Windows, Mac e Linux. Acesse o sit
 - link: https://www.rstudio.com/
 
 Núvem:
+
 O Posit Cloud é uma plataforma online que permite usar o R em um navegador web, sem a necessidade de instalação ou configuração complexa. É ideal para quem quer:
 Começar a usar o R rapidamente: basta criar uma conta gratuita e começar a escrever código R.
 Acessar o R de qualquer lugar: use o Posit Cloud em qualquer computador com acesso à internet.
@@ -54,6 +55,8 @@ Integração com o GitHub para controle de versão e colaboração. Além de out
 Para acessar o site do Posit Cloud: 
 - link: https://posit.cloud/
 
+
+----
 
 Arquivos/Files:
 
