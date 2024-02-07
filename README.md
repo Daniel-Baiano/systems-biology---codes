@@ -56,7 +56,7 @@ haverá arquivos para realizar o upload, pois os códigos precisarão de arquivo
 
 - Conectividade- Funções.R: Arquivo com algumas funções relacionadas à vizinhança e conectividade em biologia de sistemas. 
 
-- cogdata: Arquivo .RData com dados de identificação de proteínas, espécies e proteínas homólogas. Deve ser baixado para ser usando no arquivo Ganalyzer_funções.
+- cogdata: Arquivo .RData com dados de identificação de proteínas, espécies e proteínas homólogas. Deve ser baixado para ser usando no arquivo OGanalyzer_funções.
 
 - 
 
