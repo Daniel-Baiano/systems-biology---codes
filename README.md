@@ -25,6 +25,12 @@ Por exemplo para a função mean, utilize ?mean. Exemplo de SAÍDA ABAIXO:
                   mean(x, trim = 0, na.rm = FALSE, ...)    ...  "
                   
 
+Os arquivos que possuem exercícios ou de funções podem ser realizados de maneira diferentes, abordagens semelhantes, e visões alternativas são bem vindas
+e fundamentais na construção do pensamento lógico do algoritmo. Há diversas opções em realizar as mesmas tarefas e códigos de programação, não se sinta frustrado por
+ter feito de um jeito diferente, afinal na linguagem de programação podemos expressar o que queremos de múltiplas formas.
+
+
+
 Instalação/Install:
 
 Além disso, caso não tenha feito o download do R em seu aparelho e acesse esse link e realize o download:
@@ -49,4 +55,25 @@ haverá arquivos para realizar o upload, pois os códigos precisarão de arquivo
 - network.txt: Arquivo .txt com os dados para serem utilzados na construção das análises da rede.
 
 - Conectividade- Funções.R: Arquivo com algumas funções relacionadas à vizinhança e conectividade em biologia de sistemas.
+
+- 
+
+
+
+
+
+Citação
+Se você usar este código em seu trabalho, por favor, cite o seguinte:
+
+Daniel Rocha Silva. (2024). Biologia de Sistemas em R: Explorando Conceitos de Redes. <URL inválido removido>
+
+Contribuições
+Sugestões e contribuições são bem-vindas. Para contribuir, abra um issue no repositório ou envie um pull request. Caso sinta necessidade,
+entre em contato via e-mail.
+
+Licença
+Este código é licenciado sob a licença MIT.
+
+Contato
+Em caso de dúvidas ou sugestões, entre em contato com danielrochasilva37@gmail.com ou 00335625@ufrgs.br
   
