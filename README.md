@@ -62,20 +62,24 @@ haverá arquivos para realizar o upload, pois os códigos precisarão de arquivo
 
 
 
+
 Citação
 
 Se você usar este código em seu trabalho, por favor, cite o seguinte:
 
 Daniel Rocha Silva. (2024). Biologia de Sistemas em R: Explorando Conceitos de Redes. <URL inválido removido>
 
+
 Contribuições
 
 Sugestões e contribuições são bem-vindas. Para contribuir, abra um issue no repositório ou envie um pull request. Caso sinta necessidade,
 entre em contato via e-mail.
 
+
 Licença
 
 Este código é licenciado sob a licença MIT.
+
 
 Contato
 
