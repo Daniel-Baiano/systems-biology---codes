@@ -29,7 +29,7 @@ Os arquivos que possuem exercícios ou de funções podem ser realizados de mane
 e fundamentais na construção do pensamento lógico do algoritmo. Há diversas opções em realizar as mesmas tarefas e códigos de programação, não se sinta frustrado por
 ter feito de um jeito diferente, afinal na linguagem de programação podemos expressar o que queremos de múltiplas formas.
 
-
+---
 
 Instalação/Install:
 
@@ -77,9 +77,7 @@ haverá arquivos para realizar o upload, pois os códigos precisarão de arquivo
 - gabarito_cogdata.R:  Gabarito do arquivo exercício_cogdata.R.
 
 
-
-
-
+----
 
 Citação
 
