@@ -51,7 +51,7 @@ O Posit Cloud é uma plataforma online que permite usar o R em um navegador web,
 Começar a usar o R rapidamente: basta criar uma conta gratuita e começar a escrever código R.
 Acessar o R de qualquer lugar: use o Posit Cloud em qualquer computador com acesso à internet.
 Colaboração em tempo real: trabalhe em projetos com outros usuários simultaneamente e 
-Integração com o GitHub para controle de versão e colaboração. Além de outras ferramentas interrantes.
+Integração com o GitHub para controle de versão e colaboração. Além de outras ferramentas interessantes.
 
 Para acessar o site do Posit Cloud: 
 - link: https://posit.cloud/
