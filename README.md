@@ -33,7 +33,7 @@ ter feito de um jeito diferente, afinal na linguagem de programação podemos ex
 
 Instalação/Install:
 
-Além disso, caso não tenha feito o download do R em seu aparelho e acesse esse link e realize o download:
+Além disso, caso não tenha feito o download do R em seu aparelho, acesse esse link e realize o download:
 Como instalar:
 - link: https://cran-r.c3sl.ufpr.br/
 
