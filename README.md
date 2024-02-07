@@ -52,9 +52,11 @@ haverá arquivos para realizar o upload, pois os códigos precisarão de arquivo
 
 - 1.introducao_e_vetores .R: Arquivo.r com conceitos e exercícios simples para o treino na linguagem.
   
-- network.txt: Arquivo .txt com os dados para serem utilzados na construção das análises da rede.
+- network.txt: Arquivo .txt com os dados para serem utilzados na construção das análises da rede. Deve ser baixado para ser usando no arquivo Conectividade- Funções.R.
 
-- Conectividade- Funções.R: Arquivo com algumas funções relacionadas à vizinhança e conectividade em biologia de sistemas.
+- Conectividade- Funções.R: Arquivo com algumas funções relacionadas à vizinhança e conectividade em biologia de sistemas. 
+
+- cogdata: arquivo .RData com dados de identificação de proteínas, espécies e proteínas homólogas. Deve ser baixado para ser usando no arquivo Ganalyzer_funções.
 
 - 
 
