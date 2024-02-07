@@ -2,7 +2,7 @@
 Olá, seja bem vindo!
 
 Esse arquivo tem o intuito de servir como guia para esclarer os objetivos desse repositório. Primeiramente,
-Este repositório fornece uma série de códigos R para auxiliar na análise de redes biológicas.  O objetivo é facilitar a aplicação de 
+este repositório fornece uma série de códigos R para auxiliar na análise de redes biológicas.  O objetivo é facilitar a aplicação de 
 conceitos importantes em redes, como conectividade, centralidade e comunidades, para o estudo de sistemas biológicos.
 
 Vale destacar que é necessário ter familiaridade com a linguagem R, para proporcionar um melhor entendimento das chamadas de funções,
