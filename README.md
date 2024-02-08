@@ -100,5 +100,5 @@ Este código é licenciado sob a licença MIT.
 
 Contato
 
-Em caso de dúvidas ou sugestões, entre em contato com danielrochasilva37@gmail.com ou 00335625@ufrgs.br
+Em caso de dúvidas ou sugestões, entre em contato com danielrochasilva37@gmail.com ou daniel.rocha@ufrgs.br
   
